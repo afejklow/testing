@@ -16,6 +16,7 @@ namespace BootstrapDemo2.Controllers
         public ActionResult CodeView()
         {
             return View();
+            //Did we finally figure this out?  I hope so!!  Arek, can you see this comment?
         }
     }
 }
