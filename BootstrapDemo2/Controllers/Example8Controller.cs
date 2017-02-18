@@ -16,6 +16,7 @@ namespace BootstrapDemo2.Controllers
         public ActionResult CodeView()
         {
             return View();
+            //lets see if this works.  I am confused why my comment from the previous version is not showing here?  
         }
     }
 }
